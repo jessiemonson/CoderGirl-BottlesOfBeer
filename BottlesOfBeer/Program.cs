@@ -24,6 +24,7 @@ namespace BottlesOfBeer
 
             counter--;
             
+
             Console.WriteLine($" {counter} bottles of beer on the wall.");
             Console.WriteLine();
             return counter;
